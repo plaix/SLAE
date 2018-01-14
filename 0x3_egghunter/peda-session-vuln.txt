@@ -1,0 +1,4 @@
+break main
+break *0xb7e41cf2
+break *0xbffff377
+

@@ -1,0 +1,4 @@
+break main
+break *&code
+break *0x0804a069
+
